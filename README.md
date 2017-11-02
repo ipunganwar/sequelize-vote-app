@@ -1,1 +1,1 @@
-# sequelize-vote-app
+# congress
